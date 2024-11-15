@@ -1,2 +1,2 @@
 # amazon-layout-page
-This is a first page of or layout page of amazon website 
+This is a first page OR layout page of amazon website.
